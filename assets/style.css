@@ -1,0 +1,46 @@
+footer{
+    background: #000;
+}
+.footer-icon a i{
+    font-size: 30px;
+    background-color: #33383b;
+}
+.read-desc p{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn-submit{
+    padding: 5px;
+    background: #044cd0;
+    border-radius: 5px;
+    border: 1px solid ;
+    color: #fff;
+}
+.btn-submit:hover,.btn-register:hover{
+    border: 1px solid ;
+}
+.btn-register{
+    padding: 3px;
+    border: 0px;
+    border-radius: 5px;
+    background: #2C71FB;
+    color: #fff;
+}
+.foot-menu a{
+    color: white;
+    padding-left: 6px;
+}
+.label{
+    font-size: 18px;
+    font-weight: 500;
+}
+.input{
+    width: 100%;
+    padding: 5px;
+    border-radius: 6px;
+    border: 1px solid #0b220a;
+}
+.error{
+    color: red;
+}
